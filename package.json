@@ -1,0 +1,23 @@
+{
+  "name": "solomon-assignment",
+  "version": "1.0.0",
+  "description": "***Akunna Emeka Solomon***",
+  "main": "api-processor.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/El-fantasio/Solomon-Assignment.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/El-fantasio/Solomon-Assignment/issues"
+  },
+  "homepage": "https://github.com/El-fantasio/Solomon-Assignment#readme",
+  "dependencies": {
+    "axios": "^1.13.1"
+  }
+}
